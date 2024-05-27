@@ -1,0 +1,7 @@
+//package is set of class and interface
+//in built java packages are java.lang ->default package used by classes like int,String etc
+//java.util package
+
+
+classes in same packages can be used in each other directly
+classes from different packages should be imported
